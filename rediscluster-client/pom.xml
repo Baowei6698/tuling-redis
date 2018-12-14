@@ -41,6 +41,11 @@
       <artifactId>jedis</artifactId>
       <version>2.9.0</version>
     </dependency>
+    <dependency>
+      <groupId>com.tl.tlcache</groupId>
+      <artifactId>tlcache</artifactId>
+      <version>0.0.5-snapshots</version>
+    </dependency>
   </dependencies>
 
   <build>
